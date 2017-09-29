@@ -1,0 +1,12 @@
+textarea:focus {
+	background: pink;
+}
+p {
+	border: 500px dotted green
+}
+a:hover {
+	color: green;
+	text-decoration: underline overline;
+	font-size: 50px;
+	transition: 5s ease-in-out all;
+}
